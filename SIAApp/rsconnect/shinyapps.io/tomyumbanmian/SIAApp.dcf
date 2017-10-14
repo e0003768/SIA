@@ -1,0 +1,12 @@
+name: SIAApp
+title: SIAApp
+username:
+account: tomyumbanmian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225114
+bundleId: 1026774
+url: https://tomyumbanmian.shinyapps.io/SIAApp/
+when: 1508002404.42282
+asMultiple: FALSE
+asStatic: FALSE
